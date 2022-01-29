@@ -4,6 +4,7 @@ import cmath as cm
 
 # Definiujemy funkcje
 def xt(t):
+  #d=1
   d=0.1
   w2=5/8
   c1 = 1
