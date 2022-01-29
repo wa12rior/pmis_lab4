@@ -39,6 +39,6 @@ ax.plot(domain, y1)
 ax.plot(domain, y2)
 ax.plot(domain, y3)
 
-ax.legend(['omega=0.5', 'omega=1', 'omega=2'], loc="lower right")
+ax.legend(['ox','omega=0.5', 'omega=1', 'omega=2'], loc="lower right")
 
 plt.show()
